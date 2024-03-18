@@ -180,16 +180,8 @@ export const skillsData = [
     icon: "logos:sass",
   },
   {
-    name: "Git",
-    icon: "logos:git-icon",
-  },
-  {
     name: "MySQL",
     icon: "logos:mysql",
-  },
-  {
-    name: "Handlebars",
-    icon: "devicon:handlebars",
   },
   {
     name: "Next.js",
