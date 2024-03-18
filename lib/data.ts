@@ -174,11 +174,6 @@ export const skillsData = [
     name: "Java",
     icon: "logos:java",
   },
- 
-  {
-    name: "SCSS",
-    icon: "logos:sass",
-  },
   {
     name: "MySQL",
     icon: "logos:mysql",
